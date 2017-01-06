@@ -2,7 +2,7 @@
 //  MYOATests.swift
 //  MYOATests
 //
-//  Created by HannahBurzynski on 1/6/17.
+//  Created by Hannah Burzynski on 1/6/17.
 //  Copyright © 2017 Hannah Burzynski. All rights reserved.
 //
 
